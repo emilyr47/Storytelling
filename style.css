@@ -1,0 +1,38 @@
+body {
+    color: black;
+    background-color: #F4F4F4;
+}
+
+#title {
+    color: #C0B283;
+}
+
+#jumboButton {
+    background-color: #373737;
+    color: #C0B283;
+
+}
+
+#row1 {
+    background-color: #DCD0C0;
+    color: #373737;
+    height: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#row2 {
+    background-color: #DCD0C0;
+    color: #373737;
+    height: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#row3 {
+    background-color: #DCD0C0;
+    color: #373737;
+    height: 200px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
